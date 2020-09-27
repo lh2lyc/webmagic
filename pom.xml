@@ -48,7 +48,6 @@
         <module>webmagic-scripts/</module>
         <module>webmagic-selenium</module>
         <module>webmagic-saxon</module>
-        <module>webmagic-samples</module>
     </modules>
 
     <dependencyManagement>
